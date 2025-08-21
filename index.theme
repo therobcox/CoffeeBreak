@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CoffeeBreak
+Comment=Gnome GTK Theme by robcox
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=CoffeeBreak
+GtkTheme=CoffeeBreak
+IconTheme=CoffeeBreak
+MetacityTheme=CoffeeBreak
