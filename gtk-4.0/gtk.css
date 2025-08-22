@@ -1010,7 +1010,7 @@ scrollbar.overlay-indicator:not(.dragging):not(.hovering).horizontal > range > t
 
 scrollbar.overlay-indicator:not(.dragging):not(.hovering).vertical > range > trough > slider { margin: 2px 0; min-height: 40px; }
 
-scrollbar.overlay-indicator.dragging, scrollbar.overlay-indicator.hovering { background-color: alpha(#f8f4ed,0.8); border: none; }
+scrollbar.overlay-indicator.dragging, scrollbar.overlay-indicator.hovering { background-color: alpha(#e3d1b5,0.8); border: none; }
 
 scrollbar.overlay-indicator.dragging > range > trough, scrollbar.overlay-indicator.dragging > range > trough > slider, scrollbar.overlay-indicator.hovering > range > trough, scrollbar.overlay-indicator.hovering > range > trough > slider { outline: none; }
 

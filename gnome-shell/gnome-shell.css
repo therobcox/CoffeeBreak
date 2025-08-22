@@ -1051,7 +1051,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 .search-section .search-section-separator { height: 8px; background-color: transparent; }
 
-.search-section-content { background-color: rgba(255, 255, 255, 0.75); border-radius: 24px; border: 1px solid transparent; color: #000000; padding: 12px; margin: 0 12px; }
+.search-section-content { background-color: rgba(234, 221, 200, 0.75); border-radius: 24px; border: 1px solid transparent; color: #000000; padding: 12px; margin: 0 12px; }
 
 .list-search-result, .search-provider-icon { background-color: transparent; border-radius: 11px; }
 
