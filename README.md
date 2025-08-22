@@ -4,7 +4,7 @@ CoffeeBreak Theme by robcox
 <img width="1920" height="1080" alt="CoffeeBreak1" src="https://github.com/user-attachments/assets/47caf0d5-37e5-4f7c-a2e9-de4fe9022063" />
 
 # Description
-A mellow professional light theme for Gnome with ZorinOS 17 gnome-shell
+A robust professional light theme for Gnome with ZorinOS 17 gnome-shell
 
 Includes: gtk-2.0, gtk-3.0, gtk-3.20, gtk-4.0, metacity-1, openbox-3, unity, xfwm4
 
