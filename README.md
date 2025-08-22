@@ -27,6 +27,7 @@ Use your Appearance Settings App or GNOME Tweaks to set new theme
 
 # Extra
 
-Please find included - Wallpapers folder
-
 CoffeeBreak Icon Theme here: <a href="https://github.com/therobcox/CoffeeBreak-Icons">https://github.com/therobcox/CoffeeBreak-Icons</a>
+
+Looks great with CoffeeBean Dynamic Background here: <a href="https://github.com/therobcox/CoffeeBean">https://github.com/therobcox/CoffeeCoffeeBean</a>
+
